@@ -1,0 +1,33 @@
+th{
+    text-align:left;
+    padding-right: 15px;
+}
+
+.img-holder{
+    float: none; 
+    margin: auto auto; 
+    text-align:center;
+}
+
+.thumbnail{
+    border: 0;
+}
+
+td{
+    word-wrap: break-word;
+    padding-left: 5%;
+}
+
+table{
+    width: 100%;
+}
+
+@media (max-width: 992px){
+    #main_top {
+        text-align: center;
+    }
+
+    #table_top{
+        text-align: center;
+    }
+}
